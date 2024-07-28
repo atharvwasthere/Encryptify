@@ -32,14 +32,6 @@
     ./encryptify
     ```
 
-## Usage
-
-Provide detailed instructions on how to use the application here. Include example commands or configurations if applicable.
-
-## Contributing
-
-Since this project is still in development, please wait for it to be completed. Contributions are welcome, and we encourage you to open issues or submit pull requests if you have suggestions or improvements.
-
 ## Disclaimer
 
 Please note that this project is still in development. Some features may be incomplete or subject to change. 
